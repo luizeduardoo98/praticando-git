@@ -1,3 +1,4 @@
+
 Mapa de estudos:
 
 1- Sempre praticar comandos no git
@@ -7,3 +8,5 @@ Mapa de estudos:
 3- JavaScript
 
 4- Ser curioso para comecar projetos e sempre querer aprender
+
+5- Meta de no minimo 2h/dia de estudo pos college
