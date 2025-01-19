@@ -1,4 +1,3 @@
-
 Mapa de estudos:
 
 1- Sempre praticar comandos no git
@@ -12,3 +11,4 @@ Mapa de estudos:
 5- Meta de no minimo 2h/dia de estudo pos college
 
 6- Grande conquista requer esforco imenso
+
