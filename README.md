@@ -10,3 +10,5 @@ Mapa de estudos:
 4- Ser curioso para comecar projetos e sempre querer aprender
 
 5- Meta de no minimo 2h/dia de estudo pos college
+
+6- Grande conquista requer esforco imenso
